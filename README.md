@@ -1,6 +1,8 @@
 # vue-template
 Vue starter template
 
+* UUID
+
 ## Project setup
 ```
 npm install
